@@ -30,14 +30,14 @@
           <div class="container-fluid">
             <div class="logo-container"> <img src="image/logo.png" alt="" class="img-fluid">
             </div>
-            <button class="navbar-toggler border-0 accent-color" type="button" data-bs-toggle="collapse"
-              data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+            <button class="navbar-toggler border-0 accent-color" type="button" data-bs-toggle="collapse"
+              data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
               aria-expanded="false" aria-label="Toggle navigation"> <i class="fa-solid fa-bars-staggered"></i>
             </button>
             <div class="collapse navbar-collapse px-3 px-lg-0  pb-3 pb-lg-0" id="navbarSupportedContent">
               <ul class="navbar-nav mx-auto mb-2 mb-lg-0 font-1 gap-lg-4">
-                <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle"
-                    href="#" role="button" data-bs-toggle="dropdown" data-bs-auto-close="outside"
+                <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle"
+                    href="#" role="button" data-bs-toggle="dropdown" data-bs-auto-close="outside"
                     aria-expanded="false"> Home </a>
                   <ul class="dropdown-menu">
                     <li><a class="dropdown-item" href="index.html">Homepage 1</a>
@@ -45,8 +45,8 @@
                     <li><a class="dropdown-item" href="index-2.html">Homepage 2</a></li>
                   </ul>
                 </li>
-                <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle"
-                    href="#" role="button" data-bs-toggle="dropdown" data-bs-auto-close="outside"
+                <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle"
+                    href="#" role="button" data-bs-toggle="dropdown" data-bs-auto-close="outside"
                     aria-expanded="false"> About </a>
                   <ul class="dropdown-menu">
                     <li><a class="dropdown-item" href="about_company.html">About
@@ -55,8 +55,8 @@
                         Personal</a> </li>
                   </ul>
                 </li>
-                <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle"
-                    href="#" role="button" data-bs-toggle="dropdown" data-bs-auto-close="outside"
+                <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle"
+                    href="#" role="button" data-bs-toggle="dropdown" data-bs-auto-close="outside"
                     aria-expanded="false"> Portfolio </a>
                   <ul class="dropdown-menu">
                     <li><a class="dropdown-item" href="portfolio_standard.html">Portfolio
@@ -69,8 +69,8 @@
                         Portfolio</a></li>
                   </ul>
                 </li>
-                <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle active"
-                    href="#" role="button" data-bs-toggle="dropdown" data-bs-auto-close="outside"
+                <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle active"
+                    href="#" role="button" data-bs-toggle="dropdown" data-bs-auto-close="outside"
                     aria-expanded="false"> Pages </a>
                   <ul class="dropdown-menu">
                     <li><a class="dropdown-item" href="pricing.html">Pricing</a></li>
@@ -92,7 +92,7 @@
         <div class="r-container">
           <div class="overlay-2"></div>
           <div class="position-relative" style="z-index: 2;">
-            <div class="d-flex flex-column justify-content-center align-items-center text-center"
+            <div class="d-flex flex-column justify-content-center align-items-center text-center"
               style="margin-top: 7rem;">
               <h3 class="font-1 fw-bold text-white"> Contact Us. </h3>
               <nav aria-label="breadcrumb">
@@ -114,16 +114,14 @@
                   IN TOUCH</span> </div>
               <h4 class="text-title text-white fw-bold font-1 lh-1 mb-5">Contact
                 Us.</h4>
-              <p class="text-gray"> Lorem ipsum dolor sit amet, consectetur
-                adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-                exercitation ullamco laboris. </p>
+              <p class="text-gray">Contact us today for your needs and how we
+                can help bring your vision to life. </p>
               <div class="row row-cols-1 row-cols-lg-2 mt-5">
                 <div class="col mb-3">
                   <div class="d-flex flex-row align-items-center gap-3"> <i class="fa-solid fa-phone accent-color fs-1"></i>
                     <div class="d-flex flex-column">
                       <h6 class="text-white font-1">Phone</h6>
-                      <span class="text-gray">0774240365</span> </div>
+                      <span class="text-gray">0704991953</span> </div>
                   </div>
                 </div>
                 <div class="col mb-3">
@@ -137,51 +135,52 @@
                   <div class="d-flex flex-row align-items-center gap-3"> <i class="fa-solid fa-envelope accent-color fs-1"></i>
                     <div class="d-flex flex-column">
                       <h6 class="text-white font-1">Email</h6>
-                      <span class="text-gray">tripem7@gmail.com</span> </div>
+                      <span class="text-gray">Mainasharlyn2@gmail.com</span> </div>
                   </div>
                 </div>
                 <div class="col mb-3">
                   <div class="d-flex flex-row align-items-center gap-3"> <i class="fa-solid fa-location-dot accent-color fs-1"></i>
                     <div class="d-flex flex-column">
                       <h6 class="text-white font-1">Address</h6>
-                      <span class="text-gray">Nairobi</span> </div>
+                      <span class="text-gray">victoria plaza parklands road,
+                        westlands</span> </div>
                   </div>
                 </div>
               </div>
             </div>
             <div class="col">
               <div class="h-100 d-flex flex-column">
-                <div class="success_msg toast align-items-center w-100 shadow-none mb-3 bg-transparent border border-success rounded-0 my-4"
+                <div class="success_msg toast align-items-center w-100 shadow-none mb-3 bg-transparent border border-success rounded-0 my-4"
                   role="alert" aria-live="assertive" aria-atomic="true">
                   <div class="d-flex p-2">
                     <div class="toast-body f-18 d-flex flex-row gap-3 align-items-center text-success">
                       <i class="fa-solid fa-check f-36 text-success"></i> Your
                       Message Successfully Send. </div>
-                    <button type="button" class="me-2 m-auto bg-transparent border-0 ps-1 pe-0 text-success"
+                    <button type="button" class="me-2 m-auto bg-transparent border-0 ps-1 pe-0 text-success"
                       data-bs-dismiss="toast" aria-label="Close"><i class="fa-solid fa-xmark"></i></button>
                   </div>
                 </div>
-                <div class="error_msg toast align-items-center w-100 shadow-none border-danger mb-3 bg-transparent my-4 border rounded-0"
+                <div class="error_msg toast align-items-center w-100 shadow-none border-danger mb-3 bg-transparent my-4 border rounded-0"
                   role="alert" aria-live="assertive" aria-atomic="true">
                   <div class="d-flex p-2">
                     <div class="toast-body f-18 d-flex flex-row gap-3 align-items-center text-danger">
                       <i class="fa-solid fa-triangle-exclamation f-36 text-danger"></i>
                       Something Wrong ! Send Form Failed. </div>
-                    <button type="button" class="me-2 m-auto bg-transparent border-0 ps-1 pe-0 text-danger"
+                    <button type="button" class="me-2 m-auto bg-transparent border-0 ps-1 pe-0 text-danger"
                       data-bs-dismiss="toast" aria-label="Close"><i class="fa-solid fa-xmark"></i></button>
                   </div>
                 </div>
-                <form action="#" class="d-flex flex-column w-100 needs-validation mb-3 form"
+                <form action="#" class="d-flex flex-column w-100 needs-validation mb-3 form"
                   novalidate="">
-                  <div class="mb-3"> <input class="form-control p-3" name="name"
+                  <div class="mb-3"> <input class="form-control p-3" name="name"
                       id="name" placeholder="Name" required="" type="text">
                     <div class="invalid-feedback"> The field is required. </div>
                   </div>
-                  <div class="mb-3"> <input class="form-control p-3" name="email"
+                  <div class="mb-3"> <input class="form-control p-3" name="email"
                       id="email" placeholder="Email" required="" type="email">
                     <div class="invalid-feedback"> The field is required. </div>
                   </div>
-                  <div class="mb-3"> <textarea class="form-control" id="message"
+                  <div class="mb-3"> <textarea class="form-control" id="message"
 name="message" rows="5" placeholder="Message"></textarea> </div>
                   <div class="mb-3"> <button type="submit" class="btn submit_form font-1 py-3">
                       Send Message </button> </div>
@@ -192,8 +191,8 @@ name="message" rows="5" placeholder="Message"></textarea> </div>
         </div>
       </section>
       <section>
-        <div class="mb-3"> <iframe loading="lazy" class="maps" src="https://maps.google.com/maps?q=London%20Eye%2C%20London%2C%20United%20Kingdom&amp;t=m&amp;z=14&amp;output=embed&amp;iwloc=near"
-            title="London Eye, London, United Kingdom" aria-label="London Eye, London, United Kingdom"></iframe>
+        <div class="mb-3"> <iframe loading="lazy" class="maps" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.848923218923!2d36.80367267590361!3d-1.2630505356031065!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f176821ff9acd%3A0x3c371e607d004739!2sSK.ROYALTY%20by%20Kingsharmaina!5e0!3m2!1sen!2ske!4v1724186581498!5m2!1sen!2ske" title="SK.ROYALTY by Kingsharmaina" aria-label="SK.ROYALTY by Kingsharmaina"></iframe>
+
         </div>
       </section>
       <section class="section">
@@ -214,27 +213,26 @@ name="message" rows="5" placeholder="Message"></textarea> </div>
       <section class="section position-relative" style="background-image: url(image/image-1920x900-1.jpg);">
         <div class="r-container">
           <div class="overlay"></div>
-          <div class="d-flex justify-content-center align-items-center flex-column position-relative"
+          <div class="d-flex justify-content-center align-items-center flex-column position-relative"
             style="z-index: 2;">
             <div class="mb-4"> <img src="image/logo.png" alt="" class="img-fluid">
             </div>
             <h4 class="text-white font-2 mb-4">Stay in Touch</h4>
-            <p class="text-gray font-1"> Lorem ipsum dolor sit amet, consectetur
-              adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-              dolore magna aliqua. </p>
-            <form action="#" class="w-100 form needs-validation"> <input name="action"
+            <p class="text-gray font-1"> Contact us today for your needs and how
+              we can bring your vision to life. </p>
+            <form action="#" class="w-100 form needs-validation"> <input name="action"
                 value="Subscribe" type="text" hidden="">
-              <div class="input-group mb-3"> <input name="email" class="form-control form-control-lg border-accent-color"
-                  placeholder="Email" aria-label="Recipient's username" aria-describedby="button-addon2"
-                  required="" type="email"> <button class="btn border-accent-color btn_submit-subscribe text-white px-5"
+              <div class="input-group mb-3"> <input name="email" class="form-control form-control-lg border-accent-color"
+                  placeholder="Email" aria-label="Recipient's username" aria-describedby="button-addon2"
+                  required="" type="email"> <button class="btn border-accent-color btn_submit-subscribe text-white px-5"
                   type="submit" id="button-addon2">Subscribe</button> </div>
             </form>
             <div class="toast-container position-fixed bottom-0 end-0 p-3">
-              <div id="liveToast" class="toast success_msg_subscribe bg-dark-transparent text-white"
+              <div id="liveToast" class="toast success_msg_subscribe bg-dark-transparent text-white"
                 role="alert" aria-live="assertive" aria-atomic="true">
                 <div class="d-flex">
                   <div class="toast-body"> Your Subscribe Send Successfully!. </div>
-                  <button type="button" class="btn me-2 m-auto text-white" data-bs-dismiss="toast"
+                  <button type="button" class="btn me-2 m-auto text-white" data-bs-dismiss="toast"
                     aria-label="Close"> <i class="fa-solid fa-xmark"></i> </button>
                 </div>
               </div>
@@ -245,19 +243,19 @@ name="message" rows="5" placeholder="Message"></textarea> </div>
       <section class="py-5">
         <div class="r-container">
           <div class="d-flex flex-column align-items-center justify-content-center text-center">
-            <div class="d-flex flex-row gap-3 mb-4"> <a type="button" href="https://www.facebook.com/"
+            <div class="d-flex flex-row gap-3 mb-4"> <a type="button" href="https://www.facebook.com/king.sharubi/"
                 class="social-item p-2 d-flex align-items-center justify-content-center">
-                <i class="fa-brands fa-facebook"></i> </a> <a type="button" href="https://www.dribble.com.com/"
+                <i class="fa-brands fa-facebook"></i> </a> <a type="button" href="https://www.youtube.com/@her.majesty/"
                 class="social-item p-2 d-flex align-items-center justify-content-center">
-                <i class="fa-brands fa-dribbble"></i> </a> <a type="button" href="https://www.behance.com/"
+                <i class="fa-brands fa-youtube"></i> </a> <a type="button" href="https://www.tiktok.com/@kingsharmaina?_t=8p2NlHZArwb&_r=1/"
                 class="social-item p-2 d-flex align-items-center justify-content-center">
-                <i class="fa-brands fa-behance"></i> </a> <a type="button" href="https://www.twitter.com/"
+                <i class="fa-brands fa-tiktok"></i> </a> <a type="button" href="https://www.twitter.com/HerMaje29590301/"
                 class="social-item p-2 d-flex align-items-center justify-content-center">
-                <i class="fa-brands fa-twitter"></i> </a> <a type="button" href="https://www.instagram.com/"
+                <i class="fa-brands fa-twitter"></i> </a> <a type="button" href="https://www.instagram.com/kingsharmaina/"
                 class="social-item p-2 d-flex align-items-center justify-content-center">
                 <i class="fa-brands fa-instagram"></i> </a> </div>
             <span class="text-gray font-1">Copyright Royal © All rights Reserved
-              2023. Design by Tripem</span> </div>
+              2023. Design by Nag4rt</span> </div>
         </div>
       </section>
     </footer>

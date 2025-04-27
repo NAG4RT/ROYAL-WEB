@@ -98,10 +98,9 @@
             <h2 class="text-title text-white fw-bold font-1 lh-1">Professional </h2>
             <h2 class="text-title text-white fw-bold font-1 lh-1"><strong>Event
                 Staffing Coordinator</strong></h2>
-            <p class="text-white f-18 text-font mx-auto" style="max-width: 768px;">Lorem
-              ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-              tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-              minim veniam.</p>
+            <p class="text-white f-18 text-font mx-auto" style="max-width: 768px;">I
+              offer Brand ambassador, ushers , models this is for events ,
+              shoots , brands, and fine dinning experiences.</p>
             <div> <a type="button" href="portfolio_grid.html" class="btn text-font rounded-0 font-1">VIEW
                 PORTFOLIO</a> </div>
           </div>
@@ -117,14 +116,31 @@
               <div class="col">
                 <div class="d-flex flex-column justify-content-center gap-3 h-100">
                   <div class="divider mb-3"> <span class="accent-color fs-5 me-3">HI
-                      I'M ALEX</span> </div>
+                      I'M SHARMAINA</span> </div>
                   <h4 class="text-title text-white fw-bold font-1 lh-1">Professional
-                    Photographer</h4>
-                  <p class="text-white f-18 text-font my-4">Lorem ipsum dolor
-                    sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                    incididunt ut labore et dolore magna aliqua. Ut enim ad
-                    minim veniam, quis nostrud exercitation ullamco laboris nisi
-                    ut aliquip ex ea commodo consequat. </p>
+                    Event staffing coordinator</h4>
+                  <p class="text-white f-18 text-font my-4">RoyalsRoyals is a
+                    modeling company that I opened at the age of 20 as an
+                    ushering concept,&nbsp; we then advanced Into Royals this
+                    year, where now I aim to not only offer staffing services
+                    but teach everyone we work with about the beauty of being
+                    African.<br>
+                    Through Royals, we have embraced a diverse range of methods
+                    to express the rich heritage and timeless elegance of
+                    Africa. We combine modern style with traditional elements,
+                    celebrating the royalty that lies within our culture.
+                    Whether it’s through the vibrant patterns in our attire, the
+                    regal poise of our models, or the storytelling woven into
+                    our events, we proudly showcase Africa’s kingship and rich
+                    heritage.<br>
+                    <br>
+                    Our work is more than just about staffing; it’s about
+                    empowering others to understand and take pride in their
+                    roots. We aim to redefine what it means to be African by
+                    blending contemporary sophistication with deep cultural
+                    significance. Royals stands as a beacon of African
+                    excellence, where every individual we work with is a
+                    testament to the grandeur and legacy of our continent.</p>
                   <div class="my-4"> <img src="image/TTD.png" alt="" class="img-fluid"
                       style="max-width: 300px;"> </div>
                   <div class="d-flex flex-row gap-3 "> <a type="button" href="#"
@@ -327,39 +343,39 @@ name="message" rows="5" placeholder="Message"></textarea> </div>
                   IN TOUCH</span> </div>
               <h4 class="text-title text-white fw-bold font-1 lh-1 mb-5">Contact
                 Us.</h4>
-              <p class="text-gray"> Lorem ipsum dolor sit amet, consectetur
-                adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-                exercitation ullamco laboris. </p>
+              <p class="text-gray">contact us today to discuss your needs and
+                how we can help bring your vision to life. </p>
               <div class="row row-cols-1 row-cols-lg-2 mt-5">
                 <div class="col mb-3">
                   <div class="d-flex flex-row align-items-center gap-3"> <i class="fa-solid fa-phone accent-color fs-1"></i>
                     <div class="d-flex flex-column">
-                      <h6 class="text-white font-1">Phone</h6>
-                      <span class="text-gray">0724901491</span> </div>
+                      <h6 class="text-white font-1">&nbsp;&nbsp;&nbsp; Phone</h6>
+                      <span class="text-gray">&nbsp;&nbsp;&nbsp; 0704991953</span>
+                    </div>
                   </div>
                 </div>
                 <div class="col mb-3">
                   <div class="d-flex flex-row align-items-center gap-3"> <i class="fa-solid fa-earth-asia accent-color fs-1"></i>
                     <div class="d-flex flex-column">
-                      <h6 class="text-white font-1">Site</h6>
-                      <span class="text-gray">www.tripem.com</span> </div>
+                      <h6 class="text-white font-1">&nbsp;&nbsp;&nbsp; Site</h6>
+                      <span class="text-gray">&nbsp;&nbsp;&nbsp;&nbsp;
+                        www.tripem.com</span> </div>
                   </div>
                 </div>
                 <div class="col mb-3">
                   <div class="d-flex flex-row align-items-center gap-3"> <i class="fa-solid fa-envelope accent-color fs-1"></i>
-                    <div class="d-flex flex-column">
-                      <h6 class="text-white font-1">Email</h6>
-                      <span class="text-gray">tripem7@gmail.com</span> </div>
+                    <div class="d-flex flex-row align-items-center gap-3">
+                      <h6 class="text-white font-1">&nbsp;&nbsp; Email</h6>
+                      <span class="text-gray">&nbsp; &nbsp;&nbsp;
+                        Mainasharlyn2@gmail.com</span>
+                      <div class="d-flex flex-column">
+                        <h6 class="text-white font-1">&nbsp;&nbsp;&nbsp; Address</h6>
+                        <span class="text-gray">&nbsp;&nbsp;&nbsp; plaza
+                          parklands road, westlands</span> </div>
+                    </div>
                   </div>
                 </div>
-                <div class="col mb-3">
-                  <div class="d-flex flex-row align-items-center gap-3"> <i class="fa-solid fa-location-dot accent-color fs-1"></i>
-                    <div class="d-flex flex-column">
-                      <h6 class="text-white font-1">Address</h6>
-                      <span class="text-gray">Nairobi</span> </div>
-                  </div>
-                </div>
+                <div class="col mb-3"> </div>
               </div>
             </div>
           </div>
@@ -412,7 +428,7 @@ name="message" rows="5" placeholder="Message"></textarea> </div>
                 class="social-item p-2 d-flex align-items-center justify-content-center">
                 <i class="fa-brands fa-instagram"></i> </a> </div>
             <span class="text-gray font-1">Copyright ROYAL © All rights Reserved
-              2023. Design by Tripem</span> </div>
+              2023. Design by Nag4rt</span> </div>
         </div>
       </section>
     </footer>

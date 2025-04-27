@@ -111,16 +111,17 @@
                 <div class="d-flex flex-column gap-3"> <a href="image/image-900x600-2.jpg"
                     data-fslightbox="gallery" class="mb-4"> <img src="image/image-900x600-2.jpg"
                       alt="" class="img-fluid"> </a>
-                  <h5 class="font-1 accent-color">Fashion Photography</h5>
-                  <p class="text-gray"> Lorem ipsum dolor sit amet, consectetur
-                    adipiscing elit, sed do. </p>
+                  <h5 class="font-1 accent-color">Modeling</h5>
+                  <p class="text-gray">Modeling at our company emphasizes
+                    professionalism, versatility, and brand representation
+                    excellence.</p>
                 </div>
                 <div class="d-flex flex-column gap-3"> <a href="image/image-600x800-5.jpg"
                     data-fslightbox="gallery" class="mb-4"> <img src="image/image-600x800-5.jpg"
                       alt="" class="img-fluid"> </a>
-                  <h5 class="font-1 accent-color">Fashion Photography</h5>
-                  <p class="text-gray"> Lorem ipsum dolor sit amet, consectetur
-                    adipiscing elit, sed do. </p>
+                  <h5 class="font-1 accent-color">Brand marketing</h5>
+                  <p class="text-gray">Brand marketing with us drives strategic
+                    visibility and meaningful customer engagement.</p>
                 </div>
               </div>
             </div>
@@ -129,16 +130,16 @@
                 <div class="d-flex flex-column gap-3"> <a href="image/image-600x800-4.jpg"
                     data-fslightbox="gallery" class="mb-4"> <img src="image/image-600x800-4.jpg"
                       alt="" class="img-fluid"> </a>
-                  <h5 class="font-1 accent-color">Fashion Photography</h5>
-                  <p class="text-gray"> Lorem ipsum dolor sit amet, consectetur
-                    adipiscing elit, sed do. </p>
+                  <h5 class="font-1 accent-color">Event serving</h5>
+                  <p class="text-gray">Event serving with us ensures seamless,
+                    efficient, and guest-focused experiences.</p>
                 </div>
                 <div class="d-flex flex-column gap-3"> <a href="image/image-900x600-6.jpg"
                     data-fslightbox="gallery" class="mb-4"> <img src="image/image-900x600-6.jpg"
                       alt="" class="img-fluid"> </a>
-                  <h5 class="font-1 accent-color">Fashion Photography</h5>
-                  <p class="text-gray"> Lorem ipsum dolor sit amet, consectetur
-                    adipiscing elit, sed do. </p>
+                  <h5 class="font-1 accent-color">marketing management</h5>
+                  <p class="text-gray">Marketing management with us ensures
+                    targeted strategies and impactful campaign execution.</p>
                 </div>
               </div>
             </div>
@@ -147,16 +148,16 @@
                 <div class="d-flex flex-column gap-3"> <a href="image/image-900x600-3.jpg"
                     data-fslightbox="gallery" class="mb-4"> <img src="image/image-900x600-3.jpg"
                       alt="" class="img-fluid"> </a>
-                  <h5 class="font-1 accent-color">Fashion Photography</h5>
-                  <p class="text-gray"> Lorem ipsum dolor sit amet, consectetur
-                    adipiscing elit, sed do. </p>
+                  <h5 class="font-1 accent-color">Brand endorsement</h5>
+                  <p class="text-gray">Brand endorsement through us connects
+                    clients with impactful, trusted brand ambassadors.</p>
                 </div>
                 <div class="d-flex flex-column gap-3"> <a href="image/image-600x800-9.jpg"
                     data-fslightbox="gallery" class="mb-4"> <img src="image/image-600x800-9.jpg"
                       alt="" class="img-fluid"> </a>
                   <h5 class="font-1 accent-color">Fashion Photography</h5>
-                  <p class="text-gray"> Lorem ipsum dolor sit amet, consectetur
-                    adipiscing elit, sed do. </p>
+                  <p class="text-gray">Fashion photography with us captures
+                    style, creativity, and brand identity seamlessly</p>
                 </div>
               </div>
             </div>
@@ -168,15 +169,15 @@
                     data-fslightbox="gallery" class="mb-4"> <img src="image/image-900x600-7.jpg"
                       alt="" class="img-fluid"> </a>
                   <h5 class="font-1 accent-color">Fashion Photography</h5>
-                  <p class="text-gray"> Lorem ipsum dolor sit amet, consectetur
-                    adipiscing elit, sed do. </p>
+                  <p class="text-gray">Fashion photography with us captures
+                    style, creativity, and brand identity seamlessly.</p>
                 </div>
                 <div class="d-flex flex-column gap-3"> <a href="image/image-600x800-6.jpg"
                     data-fslightbox="gallery" class="mb-4"> <img src="image/image-600x800-6.jpg"
                       alt="" class="img-fluid"> </a>
-                  <h5 class="font-1 accent-color">Fashion Photography</h5>
-                  <p class="text-gray"> Lorem ipsum dolor sit amet, consectetur
-                    adipiscing elit, sed do. </p>
+                  <h5 class="font-1 accent-color">Ushering</h5>
+                  <p class="text-gray">Ushering with us ensures smooth guest
+                    flow and a welcoming event experience.</p>
                 </div>
               </div>
             </div>
@@ -185,16 +186,16 @@
                 <div class="d-flex flex-column gap-3"> <a href="image/image-600x800-8.jpg"
                     data-fslightbox="gallery" class="mb-4"> <img src="image/image-600x800-8.jpg"
                       alt="" class="img-fluid"> </a>
-                  <h5 class="font-1 accent-color">Fashion Photography</h5>
+                  <h5 class="font-1 accent-color">Event co-ordination</h5>
                   <p class="text-gray"> Lorem ipsum dolor sit amet, consectetur
                     adipiscing elit, sed do. </p>
                 </div>
                 <div class="d-flex flex-column gap-3"> <a href="image/image-900x600-5.jpg"
                     data-fslightbox="gallery" class="mb-4"> <img src="image/image-900x600-5.jpg"
                       alt="" class="img-fluid"> </a>
-                  <h5 class="font-1 accent-color">Fashion Photography</h5>
-                  <p class="text-gray"> Lorem ipsum dolor sit amet, consectetur
-                    adipiscing elit, sed do. </p>
+                  <h5 class="font-1 accent-color">Brand endorsements</h5>
+                  <p class="text-gray">Brand endorsements with us amplify brand
+                    credibility through authentic, influential representation.</p>
                 </div>
               </div>
             </div>
@@ -203,16 +204,16 @@
                 <div class="d-flex flex-column gap-3"> <a href="image/image-900x600-4.jpg"
                     data-fslightbox="gallery" class="mb-4"> <img src="image/image-900x600-4.jpg"
                       alt="" class="img-fluid"> </a>
-                  <h5 class="font-1 accent-color">Fashion Photography</h5>
-                  <p class="text-gray"> Lorem ipsum dolor sit amet, consectetur
-                    adipiscing elit, sed do. </p>
+                  <h5 class="font-1 accent-color">Brand Ambassadors</h5>
+                  <p class="text-gray">Brand ambassadors work with us to ensure
+                    we get more customers to get to them.</p>
                 </div>
                 <div class="d-flex flex-column gap-3"> <a href="image/image-600x800-7.jpg"
                     data-fslightbox="gallery" class="mb-4"> <img src="image/image-600x800-7.jpg"
                       alt="" class="img-fluid"> </a>
-                  <h5 class="font-1 accent-color">Fashion Photography</h5>
-                  <p class="text-gray"> Lorem ipsum dolor sit amet, consectetur
-                    adipiscing elit, sed do. </p>
+                  <h5 class="font-1 accent-color">Event Serving</h5>
+                  <p class="text-gray">Event serving with us delivers attentive
+                    service, elevating guest satisfaction and experience.</p>
                 </div>
               </div>
             </div>
@@ -224,11 +225,15 @@
           <div class="d-flex flex-column justify-content-center align-items-center text-center gap-3">
             <h4 class="text-white font-1 fw-bold fs-1">Take your moment with
               Royal</h4>
-            <p class="text-gray" style="max-width: 768px;"> Lorem ipsum dolor
-              sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-              incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-              veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-              ex ea commodo consequat. </p>
+            <p class="text-gray" style="max-width: 768px;">At Royals, we invite
+              you to pause and appreciate the grace and sophistication that
+              African heritage brings to every occasion. Our team embodies the
+              spirit of elegance, tradition, and cultural pride, transforming
+              each event into a celebration of our rich legacy. Whether through
+              our exceptional modeling and ushering services or our dedication
+              to professionalism, we ensure that every moment with Royals is an
+              experience that resonates with our beauty and heritage. Embrace
+              the essence of elegance. Embrace Royals.</p>
             <a href="#" type="button" class="btn rounded-0">GET STARTED</a> </div>
         </div>
       </section>
@@ -278,8 +283,8 @@
                 <i class="fa-brands fa-twitter"></i> </a> <a type="button" href="https://www.instagram.com/"
                 class="social-item p-2 d-flex align-items-center justify-content-center">
                 <i class="fa-brands fa-instagram"></i> </a> </div>
-            <span class="text-gray font-1">Copyright Codagraph Studio © All
-              rights Reserved 2023. Design by Rometheme</span> </div>
+            <span class="text-gray font-1">Copyright Royal © All rights Reserved
+              2023. Design by Tripem</span> </div>
         </div>
       </section>
     </footer>

@@ -111,15 +111,31 @@
               <div class="col mb-3">
                 <div class="d-flex flex-column justify-content-center gap-3 h-100">
                   <div class="divider mb-3"> <span class="accent-color fs-5 me-3">HI
-                      I'M ALEX</span> </div>
+                      I'M SHARMAINA</span> </div>
                   <h4 class="text-title text-white fw-bold font-1 lh-1">Professional
-                    Photographer</h4>
-                  <p class="text-white f-18 text-font my-4">A professional model
-                    who embodies elegance, versatility, and dedication,
-                    consistently delivering stunning performances across
-                    fashion, commercial, and promotional work. With a keen eye
-                    for detail and a deep understanding of the brand's vision,
-                    they bring every campaign to life with grace and impact.</p>
+                    Event staffing coordinator</h4>
+                  <p class="text-white f-18 text-font my-4">RoyalsRoyals is a
+                    modeling company that I opened at the age of 20 as an
+                    ushering concept,&nbsp; we then advanced Into Royals this
+                    year, where now I aim to not only offer staffing services
+                    but teach everyone we work with about the beauty of being
+                    African.<br>
+                    Through Royals, we have embraced a diverse range of methods
+                    to express the rich heritage and timeless elegance of
+                    Africa. We combine modern style with traditional elements,
+                    celebrating the royalty that lies within our culture.
+                    Whether it’s through the vibrant patterns in our attire, the
+                    regal poise of our models, or the storytelling woven into
+                    our events, we proudly showcase Africa’s kingship and rich
+                    heritage.<br>
+                    <br>
+                    Our work is more than just about staffing; it’s about
+                    empowering others to understand and take pride in their
+                    roots. We aim to redefine what it means to be African by
+                    blending contemporary sophistication with deep cultural
+                    significance. Royals stands as a beacon of African
+                    excellence, where every individual we work with is a
+                    testament to the grandeur and legacy of our continent.</p>
                   <div class="my-4"> <img src="image/TTD.png" alt="" class="img-fluid"
                       style="max-width: 300px;"> </div>
                   <div class="d-flex flex-row gap-3 "> <a type="button" href="#"
@@ -213,7 +229,7 @@
         <div class="r-container">
           <div class="d-flex flex-column justify-content-center align-items-center text-center gap-3">
             <h4 class="text-white font-1 fw-bold fs-1">Take your moment with
-              Codagraph</h4>
+              Royal</h4>
             <p class="text-gray" style="max-width: 768px;"> Lorem ipsum dolor
               sit amet, consectetur adipiscing elit, sed do eiusmod tempor
               incididunt ut labore et dolore magna aliqua. Ut enim ad minim
@@ -269,7 +285,7 @@
                 class="social-item p-2 d-flex align-items-center justify-content-center">
                 <i class="fa-brands fa-instagram"></i> </a> </div>
             <span class="text-gray font-1">Copyright Royal © All rights Reserved
-              2024. Design by Tripem</span> </div>
+              2024. Design by Nag4rt</span> </div>
         </div>
       </section>
     </footer>

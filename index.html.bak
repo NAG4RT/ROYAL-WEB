@@ -94,8 +94,9 @@
             style="max-width: 768px; z-index: 2;">
             <div class="divider"> <span class="accent-color fs-5 me-3">LET IT
                 BE AMAZING</span> </div>
-            <h2 class="text-title text-white fw-bold font-1 lh-1">Professional
-              Studio Photography</h2>
+            <h2 class="text-title text-white fw-bold font-1 lh-1">Professional </h2>
+            <h2 class="text-title text-white fw-bold font-1 lh-1"><strong>Event
+                Staffing Coordinator</strong></h2>
             <p class="text-white f-18 text-font">we offer Brand
               ambassador,&nbsp; ushers , models this is for events , shoots ,
               brands, and fine dinning experiences</p>
@@ -123,25 +124,24 @@
               <div class="col px-3">
                 <div class="d-flex flex-column gap-3"> <img src="image/icon-1.png"
                     alt="" srcset="" class="img-fluid img-icon">
-                  <h5 class="text-white font-1">Fashion Photography</h5>
-                  <p class="text-gray"> I offer Brand ambassador, ushers ,
-                    models this is for events , shoots , brands, and fine
-                    dinning experiences </p>
+                  <h5 class="text-white font-1">Motto</h5>
+                  <p class="text-gray">Embracing Elegance, Enriching Heritage </p>
                 </div>
               </div>
               <div class="col px-3">
                 <div class="d-flex flex-column gap-3"> <img src="image/icon-2.png"
                     alt="" srcset="" class="img-fluid img-icon">
-                  <h5 class="text-white font-1">Portrait Photography</h5>
-                  <p class="text-gray"> I offer Brand ambassador, ushers ,
-                    models this is for events , shoots , brands, and fine
-                    dinning experiences2 </p>
+                  <h5 class="text-white font-1">Vision</h5>
+                  <p class="text-gray">Through the essence of class and
+                    elegance, we portray Africas' rich Heritage, Cultural roots,
+                    and Kingship. We celebrate everyday aiming to preserve and
+                    endorse the beauty of African culture. </p>
                 </div>
               </div>
               <div class="col px-3">
                 <div class="d-flex flex-column gap-3"> <img src="image/icon-3.png"
                     alt="" srcset="" class="img-fluid img-icon">
-                  <h5 class="text-white font-1">Landscape Photography</h5>
+                  <h5 class="text-white font-1">Mission</h5>
                   <p class="text-gray"> Lorem ipsum dolor sit amet, consectetur
                     adipiscing elit, sed do eiusmod tempor incididunt ut labor.
                   </p>
@@ -164,9 +164,7 @@
                 </div>
               </div>
               <div class="col col-lg-8">
-                <p class="text-gray"> Lorem ipsum dolor sit amet, consectetur
-                  adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                  dolore magna aliqua. Ut enim ad minim veniam. </p>
+                <p class="text-gray">Here are some of my work .</p>
               </div>
             </div>
             <div class="row row-cols-1 row-cols-lg-2 mb-5">
@@ -238,21 +236,24 @@
                   <!-- Slides -->
                   <div class="swiper-slide">
                     <div class="d-flex flex-column p-4">
-                      <p class="text-gray mb-4 p-4 fs-5 fst-italic font-1">Working
-                        with this modeling agency has been a game-changer for
-                        our brand. The models were not only stunning but also
-                        professional and adaptable, perfectly capturing the
-                        essence of our campaign. From start to finish, the
-                        process was seamless, and the results exceeded our
-                        expectations. We couldn’t have asked for a better
-                        partner in bringing our vision to life.</p>
+                      <p class="text-gray mb-4 p-4 fs-5 fst-italic font-1">We
+                        have had the pleasure of working with Royals in our
+                        staffing program, and the experience has been nothing
+                        short of exceptional. SharMaina's approach was
+                        innovative, tailored, and effective, which significantly
+                        improved our operations. Due to Her outstanding work and
+                        dedication, we retained Her as our Brand Ambassador.
+                        Under her guidance, Big Knife was proudly recognized as
+                        the Number 1 Best Turkish Restaurant in Kenya. We highly
+                        recommend Royals for their professionalism, expertise,
+                        and passion in delivering results.</p>
                       <div class="d-flex flex-row align-items-center">
                         <div class="me-4"> <img src="image/image-400x400-1.jpg"
                             alt="" class="rounded-circle img-fluid" style="width: 4.5rem; height: 4.5rem;">
                         </div>
                         <div class="d-flex flex-column flex-grow-1">
-                          <h6 class="accent-color font-2 lh-1">carol</h6>
-                          <span class="text-gray">CEO</span> </div>
+                          <h6 class="accent-color font-2 lh-1">Big knife</h6>
+                          <span class="text-gray">Signed Sultan</span> </div>
                       </div>
                     </div>
                   </div>
@@ -301,7 +302,7 @@
       <section class="section">
         <div class="r-container">
           <div class="divider mb-4"> <span class="accent-color fs-5 me-3">WE
-              ARE CODAGRAPH</span> </div>
+              ARE ROYAL</span> </div>
           <h4 class="text-title text-white fw-bold font-1 lh-1 mb-5">Our Team.</h4>
           <div class="row row-cols-1 row-cols-lg-3">
             <div class="col">
@@ -309,8 +310,8 @@
                 <div class="mb-3"> <img src="image/image-600x800-1.jpg" alt=""
                     class="img-fluid"> </div>
                 <div>
-                  <h5 class="text-white font-1">Brandon</h5>
-                  <span class="text-gray font-1">Photography</span>
+                  <h5 class="text-white font-1">Sharmaina</h5>
+                  <span class="text-gray font-1">model</span>
                   <div class="d-flex flex-row gap-3 my-4"> <a type="button" href="#"
                       class="social-item p-2 d-flex align-items-center justify-content-center">
                       <i class="fa-brands fa-dribbble"></i> </a> <a type="button"
@@ -328,8 +329,8 @@
                 <div class="mb-3"> <img src="image/image-600x800-2.jpg" alt=""
                     class="img-fluid"> </div>
                 <div>
-                  <h5 class="text-white font-1">Helena </h5>
-                  <span class="text-gray font-1">Photography</span>
+                  <h5 class="text-white font-1">Carol</h5>
+                  <span class="text-gray font-1">model</span>
                   <div class="d-flex flex-row gap-3 my-4"> <a type="button" href="#"
                       class="social-item p-2 d-flex align-items-center justify-content-center">
                       <i class="fa-brands fa-dribbble"></i> </a> <a type="button"
@@ -347,8 +348,8 @@
                 <div class="mb-3"> <img src="image/image-600x800-3.jpg" alt=""
                     class="img-fluid"> </div>
                 <div>
-                  <h5 class="text-white font-1">Tyla</h5>
-                  <span class="text-gray font-1">Photography</span>
+                  <h5 class="text-white font-1">carol</h5>
+                  <span class="text-gray font-1">model</span>
                   <div class="d-flex flex-row gap-3 my-4"> <a type="button" href="#"
                       class="social-item p-2 d-flex align-items-center justify-content-center">
                       <i class="fa-brands fa-dribbble"></i> </a> <a type="button"
@@ -372,32 +373,41 @@
               </div>
               <h4 class="text-title text-white fw-bold font-1 lh-1 mb-5">Team
                 Skills.</h4>
-              <p class="text-gray">Lorem ipsum dolor sit amet, consectetur
-                adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                dolore </p>
+              <p class="text-gray">At Royal, our event staffing coordinators
+                excel in team skills that set us apart. We pride ourselves on
+                clear communication, strong leadership, and seamless
+                collaboration. Our coordinators ensure that every team member
+                understands their role, works together efficiently, and stays
+                motivated throughout the event. This attention to detail and
+                teamwork is what makes Royal your ideal partner for a successful
+                and stress-free event.</p>
               <div class="d-flex flex-column gap-4">
-                <div class="r-progress w-100" style="--value:95;"> <span class="text-white font-2">Photography</span>
+                <div class="r-progress w-100" style="--value:95;"> <span class="text-white font-2">Brand
+                    endorsement</span>
                   <div class="progress-container mt-2">
                     <div class="r-progress-bar percentage-label">
                       <div class="progress-value"></div>
                     </div>
                   </div>
                 </div>
-                <div class="r-progress w-100" style="--value:75;"> <span class="text-white font-2">Marketing</span>
+                <div class="r-progress w-100" style="--value:75;"> <span class="text-white font-2">Brand
+                    marketing</span>
                   <div class="progress-container mt-2">
                     <div class="r-progress-bar percentage-label">
                       <div class="progress-value"></div>
                     </div>
                   </div>
                 </div>
-                <div class="r-progress w-100" style="--value:85;"> <span class="text-white font-2">Videography</span>
+                <div class="r-progress w-100" style="--value:85;"> <span class="text-white font-2">marketing
+                    management</span>
                   <div class="progress-container mt-2">
                     <div class="r-progress-bar percentage-label">
                       <div class="progress-value"></div>
                     </div>
                   </div>
                 </div>
-                <div class="r-progress w-100" style="--value:80;"> <span class="text-white font-2">Design</span>
+                <div class="r-progress w-100" style="--value:80;"> <span class="text-white font-2">Event
+                    serving</span>
                   <div class="progress-container mt-2">
                     <div class="r-progress-bar percentage-label">
                       <div class="progress-value"></div>
@@ -560,16 +570,17 @@
                   IN TOUCH</span> </div>
               <h4 class="text-title text-white fw-bold font-1 lh-1 mb-5">Contact
                 Us.</h4>
-              <p class="text-gray"> Lorem ipsum dolor sit amet, consectetur
-                adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-                exercitation ullamco laboris. </p>
+              <p class="text-gray">We'd love to show you how Royal can make your
+                next event a success. Get in touch with us today to learn more
+                about our exceptional event staffing coordination services and
+                how we can tailor them to your needs. Let's create something
+                unforgettable together!</p>
               <div class="row row-cols-1 row-cols-lg-2 mt-5">
                 <div class="col mb-3">
                   <div class="d-flex flex-row align-items-center gap-3"> <i class="fa-solid fa-phone accent-color fs-1"></i>
                     <div class="d-flex flex-column">
                       <h6 class="text-white font-1">Phone</h6>
-                      <span class="text-gray">0774240365</span> </div>
+                      <span class="text-gray">0704991953</span> </div>
                   </div>
                 </div>
                 <div class="col mb-3">
@@ -581,18 +592,18 @@
                 </div>
                 <div class="col mb-3">
                   <div class="d-flex flex-row align-items-center gap-3"> <i class="fa-solid fa-envelope accent-color fs-1"></i>
-                    <div class="d-flex flex-column">
+                    &nbsp;&nbsp;
+                    <div class="d-flex flex-row align-items-center gap-3">
                       <h6 class="text-white font-1">Email</h6>
-                      <span class="text-gray">Tripem7@gmail.com</span> </div>
+                      <span class="text-gray">Mainasharlyn2@gmail.com</span>
+                      <div class="d-flex flex-column">
+                        <h6 class="text-white font-1">Address</h6>
+                        <span class="text-gray">plaza parklands road, westlands</span>
+                      </div>
+                    </div>
                   </div>
                 </div>
-                <div class="col mb-3">
-                  <div class="d-flex flex-row align-items-center gap-3"> <i class="fa-solid fa-location-dot accent-color fs-1"></i>
-                    <div class="d-flex flex-column">
-                      <h6 class="text-white font-1">Address</h6>
-                      <span class="text-gray">NAIROBI</span> </div>
-                  </div>
-                </div>
+                <div class="col mb-3"> </div>
               </div>
             </div>
             <div class="col">
@@ -684,7 +695,7 @@ name="message" rows="5" placeholder="Message"></textarea> </div>
                 class="social-item p-2 d-flex align-items-center justify-content-center">
                 <i class="fa-brands fa-instagram"></i> </a> </div>
             <span class="text-gray font-1">Copyright Royal © All rights Reserved
-              2023. Design by Tripem</span> </div>
+              2023. Design by Nag4rt</span> </div>
         </div>
       </section>
     </footer>
